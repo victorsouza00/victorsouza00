@@ -2,7 +2,7 @@
 
 💻 **Backend Developer | Java & Spring Specialist**  
 
-[![3D Contribuições](https://github-profile-3d-contrib.vercel.app/?username=victorsouza00&theme=dark)](https://github.com/victorsouza00)
+[![3D Contributions](https://raw.githubusercontent.com/victorsouza00/victorsouza00/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/victorsouza00)
 
 ### 🛠 Stack Principal
 - **Linguagens**: Java, Kotlin  
